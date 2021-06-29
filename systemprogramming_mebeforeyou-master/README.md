@@ -4,8 +4,6 @@ System / Embedded Programming Project
 
 시연 영상 >> [https://www.youtube.com/watch?v=j0Dk9-GmF0s](https://www.youtube.com/watch?v=j0Dk9-GmF0s)
 
-![Untitled](/uploads/6c9e0363e5a677a8fbf63ed633b6c624/Untitled.png)
-
 # 1. 개요
 
 최근 코로나 바이러스로 인해 외부 활동이 제한되고, 다중 이용 시설에 대한 주의가 각별해지고 있습니다. 평소 다양한 이유로 집 외의 학습 환경(카페, 스터디 카페, 독서실 등) 을 이용하던 대학생들은 이런 상황에 대처하여 새로운 학습 환경을 모색해야 할 처지가 되었습니다. 또한, 위의 이유로 인해 집 안에서 학습하는 시간이 증가하며, 집 안에서 학습을 진행할 때 최대한 집중력을 향상할 수 있는 환경을 만드는 것이 중요해졌습니다.
@@ -123,7 +121,7 @@ System / Embedded Programming Project
 
 # 사용 센서 목록
 
-![스크린샷_2021-06-18_오전_11.18.49](/uploads/da2ba0e9d2985b1f8cbdefc83cda61b7/스크린샷_2021-06-18_오전_11.18.49.png)
+![스크린샷_2021-06-18_오전_11.18.49](/uploads/da2ba0e9d2985b1f8cbdefc83cda61b7/스크린샷_2021-06-18_오전_11.18.49.png)
 
 # 시스템 구성
 
